@@ -36,10 +36,10 @@ Nwrite — кроссплатформенный планировщик и ред
 </p>
 <p align="center">
   <img src="screenshots/library_mob.jpg" alt="Library Mobile" width="400">
-  <img src="screenshots/editor_mob.png" alt="Editor Mobile" width="400">
-  <img src="screenshots/outline_mob.png" alt="Outline Mobile" width="400">
-  <img src="screenshots/characters_mob.png" alt="Characters Mobile" width="400">
-  <img src="screenshots/read_mob.png" alt="Read Mobile" width="400">
+  <img src="screenshots/editor_mob.jpg" alt="Editor Mobile" width="400">
+  <img src="screenshots/outline_mob.jpg" alt="Outline Mobile" width="400">
+  <img src="screenshots/characters_mob.jpg" alt="Characters Mobile" width="400">
+  <img src="screenshots/read_mob.jpg" alt="Read Mobile" width="400">
 
 ---
 
