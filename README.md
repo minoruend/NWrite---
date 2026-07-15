@@ -69,7 +69,7 @@ Nwrite — кроссплатформенный планировщик и ред
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Nwrite.git
+git clone https://github.com/minoruend/NWrite.git
 cd Nwrite
 ```
 
