@@ -27,8 +27,8 @@ Nwrite — кроссплатформенный планировщик и ред
 <p align="center">
   <img src="screenshots/library_view.png" alt="Library View" width="400">
   <img src="screenshots/editor_view.png" alt="Editor View" width="400">
-  <img src="screenshots/outline_view.png" alt="Editor View" width="400">
-  <img src="screenshots/character_view.png" alt="Editor View" width="400">
+  <img src="screenshots/outline_view.png" alt="Outline View" width="400">
+  <img src="screenshots/character_view.png" alt="Character View" width="400">
 </p>
 
 ---
